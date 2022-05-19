@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - I'm currently a second-year graduate student at [LAMDA Laboratory](www.lamda.nju.edu.cn), [Nanjing University (NJU)](https://www.nju.edu.cn/main.htm).   
-- I major in Computer Science and Artificial Intelligence, and my research interests include Reinforcement Learning and Multi-Agent Reinforcement Learning. 
+- I major in Computer Science and Artificial Intelligence. My research interests include Reinforcement Learning and Multi-Agent Reinforcement Learning. 
 - I'm interested in every novel, frontier and cool thing 🚀, and dedicated to being a lifelong coder 👨🏻‍💻 :)
 
 <!--
