@@ -15,9 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 📊 Github stats
+----
 
-<details> 
+[![Cjh's github stats](https://github-readme-stats.vercel.app/api?username=Cjh327&theme=buefy&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cjh327&theme=buefy&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Cjh's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Cjh327&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
@@ -30,4 +33,4 @@ Here are some ideas to get you started:
   <br/>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Cjh's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=Cjh327&bg_color=fff&color=000&line=00E676&point=000&hide_border=true" /></a>
 </details>
-
+ -->
